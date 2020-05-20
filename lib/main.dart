@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 import 'package:peliculas_en_cines/src/vista/home_page.dart';
 import 'package:peliculas_en_cines/src/vista/pelicula_detalle.dart';
+
+// Pedro Daniel Pérez Sánchez - 21/05/2020
  
 void main() => runApp(MyApp());
  

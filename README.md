@@ -1,16 +1,11 @@
-# peliculas_en_cines
+# Ultimas Peliculas en Cines
 
-A new Flutter project.
+Aplicación de ejemplo en Flutter que implementa una solución a una necesidad real: Informarse de las ultimas peliculas en cines, en tiempo real. 
 
-## Getting Started
+Esta implementación ha sido posible, gracias a la base de datos libre TheMovieDB
 
-This project is a starting point for a Flutter application.
+## Enlace de descarga del APK Multiplataforma
 
-A few resources to get you started if this is your first Flutter project:
+[Enlace de descarga de la aplicación](https://github.com/Zoroboak/Ejemplo-APP-Flutter-Ultimas-Peliculas-en-Cines/raw/master/build/app/outputs/apk/release/peliculas_en_cines.apk)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
