@@ -1,8 +1,9 @@
 # Ultimas Peliculas en Cines
 
-Aplicación de ejemplo en Flutter que implementa una solución a una necesidad real: Informarse de las ultimas peliculas en cines, en tiempo real. 
+Aplicación de ejemplo en Flutter que implementa una solución real a una necesidad real: 
+- Informarse de las ultimas peliculas en cines. 
 
-Esta implementación ha sido posible, gracias a la base de datos libre TheMovieDB
+Esta implementación ha sido posible, gracias a la base de datos libre [TheMovieDB](https://www.themoviedb.org/?language=es)
 
 ## Enlace de descarga del APK Multiplataforma
 
