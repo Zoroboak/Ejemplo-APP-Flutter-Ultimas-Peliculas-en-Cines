@@ -1,0 +1,4 @@
+#Mon May 18 22:57:44 CEST 2020
+base.0=/home/pedro/Development/proyectos_flutter/peliculas_en_cines/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
